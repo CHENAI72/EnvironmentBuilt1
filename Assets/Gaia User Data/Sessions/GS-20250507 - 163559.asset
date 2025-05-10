@@ -1,0 +1,1420 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20250507 - 163559
+  m_EditorClassIdentifier: 
+  m_name: Session 20250507-163559
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 2025/5/7 16:35:59
+  m_terrainWidth: 1024
+  m_terrainDepth: 1024
+  m_terrainHeight: 1024
+  m_seaLevel: 8
+  m_spawnDensity: 3
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 2025/5/7 16:45:41
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 256'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:45:41
+    scriptableObjectAssetGUID: 5b97da341af00a542ad97a060d976c32
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:47:09
+    scriptableObjectAssetGUID: 077f93eb3435231468ec2b5822b9760f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:48:58
+    scriptableObjectAssetGUID: 3f57c8fb13ac3f94da0e05d70ede37ee
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:49:09
+    scriptableObjectAssetGUID: e4d1994e525dbf541bb68221dc2c7e3e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:49:56
+    scriptableObjectAssetGUID: f7e49acd4bafd7c49aea2f8313d23ecf
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:50:16
+    scriptableObjectAssetGUID: 2182dda65e5fc744a8fee837d64f2538
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:50:29
+    scriptableObjectAssetGUID: 6a0e035dfe2340345aeda662607cdd31
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:50:42
+    scriptableObjectAssetGUID: 0a5e0a923549ebf4191be249bb06b5b9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:54:08
+    scriptableObjectAssetGUID: 1d30a2de2bbdb184a9c03f0869590b4e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:56:15
+    scriptableObjectAssetGUID: d8aadf58ff7c3c543baac74dccc90709
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Pine(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:58:04
+    scriptableObjectAssetGUID: eb86d566b6b53b846ac0566a0aa4b3e6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:58:44
+    scriptableObjectAssetGUID: 3850046f6fcd576488e70b42cb067167
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (2)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:58:53
+    scriptableObjectAssetGUID: 0810265c8c5eb6f41b33011b88bd5bbd
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:59:00
+    scriptableObjectAssetGUID: 84f050c97fb3e464daff694b55f878e4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Pine(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 16:59:51
+    scriptableObjectAssetGUID: 1795f22b35f09334da1895ab2628faa9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Pine(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:00:01
+    scriptableObjectAssetGUID: 834f71c1419788c45adee508e4de659f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Pine(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:00:07
+    scriptableObjectAssetGUID: 5db18dcede62a464eb1a5c58b9266479
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Pine(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:00:11
+    scriptableObjectAssetGUID: e80eeef0e3d97fb4fa8314ee0193c772
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Pine(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:01:08
+    scriptableObjectAssetGUID: 66714d61cdc39a0408403cc3c776bb58
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Pine(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:01:42
+    scriptableObjectAssetGUID: 29192c89f6427cc418fb9b98c49d135a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Pine(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:02:00
+    scriptableObjectAssetGUID: ddcd8f9a67df445419e3987926c05eb1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Pine(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:02:19
+    scriptableObjectAssetGUID: ecf2bd2d37ec7864687ec6c2d07dcaa4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Pine(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:02:35
+    scriptableObjectAssetGUID: 1755d6003df71f2429a1ca2bf752e4fe
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:03:24
+    scriptableObjectAssetGUID: 82f6d384b32fe9246b1e046f20e324e2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:06:10
+    scriptableObjectAssetGUID: 800ee753df7ba4a4395d7a304620a1c4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:06:42
+    scriptableObjectAssetGUID: b76e03a74e85f6f47952f307213bb6a3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:07:27
+    scriptableObjectAssetGUID: 270853513d51c934b80041bf6302cbbe
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:12:15
+    scriptableObjectAssetGUID: fec784ce5b2922d49b9233a41c406488
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:18:32
+    scriptableObjectAssetGUID: 34d92cc6b97c643419ec18ebaf8fdf56
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:29:43
+    scriptableObjectAssetGUID: 8deff0635657cca4eb8ed1b2fe548c19
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Pine(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:30:18
+    scriptableObjectAssetGUID: 5a9dc5ad32cfaee4aa320ac359dbb05f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:31:31
+    scriptableObjectAssetGUID: 129cb730a301be34e8d1f69b125557e8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:33:10
+    scriptableObjectAssetGUID: 9c7a9f6d30052d8439d4c7665e410bb6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:36:10
+    scriptableObjectAssetGUID: 67573f702852c724ba635bca7906af7a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:37:27
+    scriptableObjectAssetGUID: e2ab59bf168a6cc44a424b7b9ec5648b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-VFX(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 17:40:20
+    scriptableObjectAssetGUID: fb28a948302104f4bb6cf86aee20f5d6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Audio(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:03:50
+    scriptableObjectAssetGUID: 5cfb820d418b0324c820133d399ede75
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:32:15
+    scriptableObjectAssetGUID: f4c16144ad4831a489df66db86ddbe66
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:32:41
+    scriptableObjectAssetGUID: ef54ec01b6424414a9b9ea4555300024
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:32:47
+    scriptableObjectAssetGUID: 61502a9d38b3ad642b2fdd9dbafd0984
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:34:07
+    scriptableObjectAssetGUID: a34624a1437902240963d1a18c9ec793
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:34:11
+    scriptableObjectAssetGUID: d70fb4a09d1226d469f2ccb11e27c8d1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:34:31
+    scriptableObjectAssetGUID: f00ad20739bf6aa4a8e05b82eca9227b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:35:09
+    scriptableObjectAssetGUID: 60a2ad3a8895c994f98b9abd2f9b4848
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:36:40
+    scriptableObjectAssetGUID: 41620dbd4443ace4fa149062aa7fa8bd
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:38:24
+    scriptableObjectAssetGUID: 4b93663118dc0554cbfa5f790bbe3484
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:38:39
+    scriptableObjectAssetGUID: a1c7a0550ec48d14abd53906c0e20a00
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:39:30
+    scriptableObjectAssetGUID: a30b74ed87e58ec488830899ddbbed42
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:39:58
+    scriptableObjectAssetGUID: ec9b5bf2dccb6e5449d99fc72a958fb7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:40:05
+    scriptableObjectAssetGUID: 753477b135a117b418371f440558f964
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:40:49
+    scriptableObjectAssetGUID: 478040c145798f54aad6eb28c5abd4f8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:41:04
+    scriptableObjectAssetGUID: d754c864f80bb814cb725e307e4a6d3b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:41:56
+    scriptableObjectAssetGUID: 5b33535d537bfff4ca30b0de806e3aaa
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:42:11
+    scriptableObjectAssetGUID: 319cc73b0994755459c00310df09afc5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:42:30
+    scriptableObjectAssetGUID: bef00627751cb9c49a026111b0f6d8f6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:43:18
+    scriptableObjectAssetGUID: 43b8b968661fb65459c7c3f2ebe426cf
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:43:38
+    scriptableObjectAssetGUID: c711f49cd75ec0643a4e6a5685484347
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:44:32
+    scriptableObjectAssetGUID: 5e9632d25864862438cca94ae5391061
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:45:30
+    scriptableObjectAssetGUID: e4dfcec299803dc479141ea72e76a717
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:47:15
+    scriptableObjectAssetGUID: f9f1e8b47db43d14d9ca37d8d6933b85
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:58:31
+    scriptableObjectAssetGUID: 41baf73fb13e17647bf1ea41a716257a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 19:59:47
+    scriptableObjectAssetGUID: 5d14bd15ae0f6384fb542139b5b1658b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:00:47
+    scriptableObjectAssetGUID: 506f2ea671128b24f95b4fa74cf58c70
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:01:38
+    scriptableObjectAssetGUID: 8b82102aabcdc66458c92d274c38dda1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:02:51
+    scriptableObjectAssetGUID: 13ac327391ca3204a8242e9014f0ae15
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:03:41
+    scriptableObjectAssetGUID: 0ccde10a635f6d54ea246a60d15c95dc
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:04:14
+    scriptableObjectAssetGUID: 42f64132e992a0946b1de714753efb4c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:04:40
+    scriptableObjectAssetGUID: 95150d2a3123b6a4a9ae3b3b738273bc
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:05:23
+    scriptableObjectAssetGUID: 59de7586cf4a478458f711443a511d62
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:06:05
+    scriptableObjectAssetGUID: 8e2d6313e99d4a7438bc5d13fdeb807c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:07:50
+    scriptableObjectAssetGUID: a7eddfec01034de4488c8be7d63603eb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:08:48
+    scriptableObjectAssetGUID: d862bbb0a8fe58344af7e3c4792cf7f6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:10:26
+    scriptableObjectAssetGUID: f8a0de09a05b2264ca53767dae4c2a42
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:10:33
+    scriptableObjectAssetGUID: ebc3144b9e74c1d4aa62fc2807702f9e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:10:52
+    scriptableObjectAssetGUID: aa7c855203cddb1468ca42296acdda59
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:11:17
+    scriptableObjectAssetGUID: 16c4d2b794c898a42b558420bbc3c632
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:11:37
+    scriptableObjectAssetGUID: 17b349d519f481949a5fe659b82ddf8a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:11:49
+    scriptableObjectAssetGUID: 7df98958c3216174582f70b73790db08
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:11:58
+    scriptableObjectAssetGUID: df431da5170aaa242afd878b9460ab37
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:12:03
+    scriptableObjectAssetGUID: 95fc7af3d3cc6b34da1071e2aeb62e6c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:12:29
+    scriptableObjectAssetGUID: 124d77abd9858634f93dfc3027c40465
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:12:53
+    scriptableObjectAssetGUID: da9a004e7f8454844abb5e86fbd9dfe6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:13:36
+    scriptableObjectAssetGUID: d27692ea240c724459a1b47aac3f0303
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:13:46
+    scriptableObjectAssetGUID: 4028923fcdf68e348b6d8bb6a7e2440b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:14:32
+    scriptableObjectAssetGUID: ebce34cae9827b943b298f4715de9a19
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:14:36
+    scriptableObjectAssetGUID: 7b7b1e096cea09442b7d0e48d0b22092
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:18:24
+    scriptableObjectAssetGUID: 728591c558670404fb39b517020273e8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:19:09
+    scriptableObjectAssetGUID: 4f26a12e2196c434b840191956e50e42
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:20:13
+    scriptableObjectAssetGUID: e8ce43ecd30887d4784f473078edb5c8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:22:35
+    scriptableObjectAssetGUID: 18fa5f285ba5650499e33f8919a683ed
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Fern(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:24:11
+    scriptableObjectAssetGUID: ab8e62f37b8ab414eb20e99361fb5f64
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:26:45
+    scriptableObjectAssetGUID: 2618a9cb364218d439f99cad621cb82e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:27:39
+    scriptableObjectAssetGUID: 5fd74179f88544b4aab2cff7ee3b53d7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:29:35
+    scriptableObjectAssetGUID: 02362fa287ec33a4ca619bd7d0666389
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:31:54
+    scriptableObjectAssetGUID: e146b75bc7fb0044b875955062949944
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:32:32
+    scriptableObjectAssetGUID: 8157e3f6887d9074c9650215ca227f39
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:37:55
+    scriptableObjectAssetGUID: 471964a2795befe459148408f0c1572e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:38:51
+    scriptableObjectAssetGUID: f2dedbd850b1f9b48a053362a0c3b030
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:39:49
+    scriptableObjectAssetGUID: 84208f05e163ca642b923281dc099a3f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:40:55
+    scriptableObjectAssetGUID: 86da290047fb3aa4f9b7db132f85f27a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:42:06
+    scriptableObjectAssetGUID: f14f13b3a52a2024da15dbcda87ba533
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:42:21
+    scriptableObjectAssetGUID: d8d1f66f1c8d0d045ad1950161f253d8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:42:53
+    scriptableObjectAssetGUID: 465340291a641b043807a27ec1c67acf
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:43:37
+    scriptableObjectAssetGUID: 5f75d3e8efdeac04c93898463d1e1282
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:43:55
+    scriptableObjectAssetGUID: 5dbb10c03029fd246b40c55f97b6eaf7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:44:24
+    scriptableObjectAssetGUID: b40676005830ec244bcbb9c553b0eb2a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:44:47
+    scriptableObjectAssetGUID: f660485529bcaff4ab986aeb2b617fd5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:45:11
+    scriptableObjectAssetGUID: 367410e905656c84ca59bc47731b68d0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:45:39
+    scriptableObjectAssetGUID: 34696bc897c19cc40980609727b755e6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:46:01
+    scriptableObjectAssetGUID: 965dff505d6ec2d4f8f154fed6d67666
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:46:16
+    scriptableObjectAssetGUID: 4394f7680396c994eaab1ff6d4fe6709
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:47:40
+    scriptableObjectAssetGUID: d5d87f3705e523246896534cc55b626c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:48:16
+    scriptableObjectAssetGUID: 11a3f6de2f2543649b66ca4f5ea99dad
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:49:26
+    scriptableObjectAssetGUID: d399205876e3738428c953230a40c3e2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:49:40
+    scriptableObjectAssetGUID: d067640c77519244bb87f6c8998ef7b4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:50:18
+    scriptableObjectAssetGUID: 40a0d5ab045a1524ebb18d140df47253
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:50:37
+    scriptableObjectAssetGUID: db3a1d82865536d4cb45a02d040ef5ed
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:50:44
+    scriptableObjectAssetGUID: d20291ce4f37c7748a2cf7bae5d67726
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:51:00
+    scriptableObjectAssetGUID: a71388d233ca47b4baae8bd9ef65bb79
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:51:34
+    scriptableObjectAssetGUID: 4b7b5e9f48f0090448b041201c83e853
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:51:52
+    scriptableObjectAssetGUID: b0bef684e8506e9488bc3fbda255806b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Tree Spruce(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 20:51:59
+    scriptableObjectAssetGUID: 7eb23d38569cd9b4090c2adfa998ed35
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Flower(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250507 - 164541
+    m_operationDateTime: 2025/5/7 21:05:11
+    scriptableObjectAssetGUID: 9c8331eae40037c42b1065cec382e0f2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: b3c7a70c045f3a44dac335e81bc60474
+    isWorldmap: 0
+    recalculate: 0
+    min: 12.609568
+    max: 25.820707
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20250507 - 164541_LayerGameObject_3584_3
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20250507
+      - 164541/Terrain_0_0-20250507 - 164541_LayerGameObject_3584_3
+    fullPath: E:/EnvironmentBuilt1/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20250507
+      - 164541/Terrain_0_0-20250507 - 164541_LayerGameObject_3584_3
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20250507 - 164541_LayerTree_3584_-3
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20250507
+      - 164541/Terrain_0_0-20250507 - 164541_LayerTree_3584_-3
+    fullPath: E:/EnvironmentBuilt1/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20250507
+      - 164541/Terrain_0_0-20250507 - 164541_LayerTree_3584_-3
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}
