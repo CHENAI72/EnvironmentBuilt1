@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20250508 - 104512
+  m_EditorClassIdentifier: 
+  m_name: Session 20250508-104512
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 2025/5/8 10:45:12
+  m_terrainWidth: 512
+  m_terrainDepth: 512
+  m_terrainHeight: 512
+  m_seaLevel: 12.5
+  m_spawnDensity: 0.6
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 2025/5/8 11:17:24
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 512'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250508 - 111724
+    m_operationDateTime: 2025/5/8 11:17:25
+    scriptableObjectAssetGUID: eccbfa924c47eaa43a5716fa1cb7735b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (9)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250508 - 111724
+    m_operationDateTime: 2025/5/8 11:27:45
+    scriptableObjectAssetGUID: f512c2e1390fe284186cbbc9301400d6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250508 - 111724
+    m_operationDateTime: 2025/5/8 11:29:52
+    scriptableObjectAssetGUID: d4368a0666736f947b50cab3e957c259
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Mountain 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250508 - 111724
+    m_operationDateTime: 2025/5/8 11:42:50
+    scriptableObjectAssetGUID: 49cde6e8637bde6419c1e2ccd865ec5f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250508 - 111724
+    m_operationDateTime: 2025/5/8 11:42:53
+    scriptableObjectAssetGUID: d5e3c692f5c607d469a84213a957df6d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Mountain 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 2025/5/8 11:43:54
+    scriptableObjectAssetGUID: 25484d480872efd4e9d9a300fcf15565
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 7f9fcb10d1333f947b8f701c484b1903
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 38.078705
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries: []
+  m_worldBiomeMaskSettings: {fileID: 0}
