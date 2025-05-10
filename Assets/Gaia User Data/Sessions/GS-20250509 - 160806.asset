@@ -1,0 +1,676 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20250509 - 160806
+  m_EditorClassIdentifier: 
+  m_name: Session 20250509-160806
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 2025/5/9 16:08:06
+  m_terrainWidth: 512
+  m_terrainDepth: 512
+  m_terrainHeight: 512
+  m_seaLevel: 4
+  m_spawnDensity: 0.6
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 2025/5/9 16:09:39
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 512'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 160940
+    m_operationDateTime: 2025/5/9 16:09:40
+    scriptableObjectAssetGUID: 57d58782afe412c4b8d400ea1def0b64
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 160940
+    m_operationDateTime: 2025/5/9 16:10:29
+    scriptableObjectAssetGUID: affe7e3b220005549a6382c24b330717
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 160940
+    m_operationDateTime: 2025/5/9 16:19:56
+    scriptableObjectAssetGUID: 99a9621c8488c0546819a656965f6926
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 160940
+    m_operationDateTime: 2025/5/9 16:23:38
+    scriptableObjectAssetGUID: 7de55b7adbd27a741b05ea48cfbe3906
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 160940
+    m_operationDateTime: 2025/5/9 16:25:23
+    scriptableObjectAssetGUID: bc61e636a5061c045976e4decb02d2c2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 160940
+    m_operationDateTime: 2025/5/9 16:28:00
+    scriptableObjectAssetGUID: 9b22e79b4b8a21d4789bbefccdde68f0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 160940
+    m_operationDateTime: 2025/5/9 16:33:28
+    scriptableObjectAssetGUID: 99306819f52b2644daca4435d9105c9c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 160940
+    m_operationDateTime: 2025/5/9 16:36:10
+    scriptableObjectAssetGUID: 5852d5f5819be654cb7e2025edae8cf1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 2025/5/9 18:09:12
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 512'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:09:12
+    scriptableObjectAssetGUID: 14442c1b5c913ff458c79ff7a75de407
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:12:33
+    scriptableObjectAssetGUID: 475a70f1be872bc42977f9982eb6ea2d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:13:38
+    scriptableObjectAssetGUID: 7169db330672b354f9c1bf0a8f317769
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:13:42
+    scriptableObjectAssetGUID: f12c7d79f9ea9a049a0a43ef26aa23a8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:13:43
+    scriptableObjectAssetGUID: 0836a2ec47a666449a1268e8adf3485e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:13:50
+    scriptableObjectAssetGUID: e715245fb9a2ecd4b8297e4003b383b8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:17:33
+    scriptableObjectAssetGUID: 6cb7044ac9d190d45ad5e99f89044dc2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:25:58
+    scriptableObjectAssetGUID: 10201408aab723b4b99a5428f4c52199
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:27:31
+    scriptableObjectAssetGUID: c15f80dcac997ad498a9920e40d76f59
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:27:35
+    scriptableObjectAssetGUID: c2bc7e47655dfd242b7d3109c085d76b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:27:39
+    scriptableObjectAssetGUID: eee47d8fc41d3b24596ead824da545f6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:28:07
+    scriptableObjectAssetGUID: d573a3cf7cb62db41b5ff1d4653816e0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:28:38
+    scriptableObjectAssetGUID: c8f66a2402b2a5f4e8017a8881902290
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:29:47
+    scriptableObjectAssetGUID: d975c6bf2fa201740afc500ac5479fab
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:30:10
+    scriptableObjectAssetGUID: be914494a169478498f0f69b88d520a1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:33:29
+    scriptableObjectAssetGUID: a5638522858399e4e841ac621d7584e5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:35:03
+    scriptableObjectAssetGUID: 59ae1915fe41c5a4cbdda48a4628eae8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:35:14
+    scriptableObjectAssetGUID: f5900cdeee8be6a44b01a919cb6fda30
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:35:24
+    scriptableObjectAssetGUID: 7388821c2606b1245b1a2566e59f51fb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:35:34
+    scriptableObjectAssetGUID: e5ecca12be21cf64dbbafaa19cedb95d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:35:49
+    scriptableObjectAssetGUID: d383b868e933c18438dfb911b62138f8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:35:54
+    scriptableObjectAssetGUID: 20bfbd6cc701c494a8175ba1a81236b2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:36:04
+    scriptableObjectAssetGUID: 33949c58ed2c7d442a2b3387d1f9c689
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:36:37
+    scriptableObjectAssetGUID: 61db9c9c3251be24a9f3f8bab774422d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:40:48
+    scriptableObjectAssetGUID: 9eea0f82771fbd140a0203fbd0f2b8ea
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:41:57
+    scriptableObjectAssetGUID: d9bcebe82f79b074bafff7a1530f49d3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:42:38
+    scriptableObjectAssetGUID: 895295ddf76f3f343b142c721eb82852
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:45:46
+    scriptableObjectAssetGUID: 675b69692a8399d4aab8f1a8809617ad
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 18:46:30
+    scriptableObjectAssetGUID: 2bbfa11e329a11448b7784b9846da862
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 19:27:32
+    scriptableObjectAssetGUID: 10a0f0a78c6e0894ba6e7ffff63db600
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 19:28:35
+    scriptableObjectAssetGUID: 2eea75a01baa04d44adb13ed12878bd7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 20:37:20
+    scriptableObjectAssetGUID: f86138a1344f97d48a532bdaf3e4ddb2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 20:38:39
+    scriptableObjectAssetGUID: 8ebc216b8939ba54182d7ed3bdd5ee0b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Trees(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/9 20:43:23
+    scriptableObjectAssetGUID: 58a77792aca68e745a17d57aefe3e0bf
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Mushrooms(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/10 15:44:04
+    scriptableObjectAssetGUID: 2a038fbf6782c754d80f30d43bd1dfab
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Mushrooms(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/10 15:45:19
+    scriptableObjectAssetGUID: d99c6777445971946a92369ae73a6c57
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Mushrooms(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/10 15:46:10
+    scriptableObjectAssetGUID: f48d23db010d3db438b8485a369b780a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Mushrooms(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/10 15:48:21
+    scriptableObjectAssetGUID: 20781645e54ad7448bbf32b4f07f5663
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Mushrooms(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/10 15:48:27
+    scriptableObjectAssetGUID: 1f54a570a08d54a4fa783c1c18fb8338
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Mushrooms(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/10 15:48:44
+    scriptableObjectAssetGUID: 57121fcd212870545a8addbbaa3f9a05
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Mushrooms(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/10 15:48:56
+    scriptableObjectAssetGUID: 6bd1659cf9579964ab92a37f5febc0dd
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Mushrooms(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/10 15:50:43
+    scriptableObjectAssetGUID: c32783aabaeb5b44a8d7e05ba79efaf0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Mushrooms(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/10 15:50:54
+    scriptableObjectAssetGUID: b0a738c77aec3bb4698cd567324084ad
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Mushrooms(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/10 15:59:09
+    scriptableObjectAssetGUID: ef856b35e743ced408459f0bf3ac7f4c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Mushrooms(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/10 15:59:24
+    scriptableObjectAssetGUID: 2b47ff94c06015341ac7d410d222d2c3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250509 - 180912
+    m_operationDateTime: 2025/5/10 16:09:16
+    scriptableObjectAssetGUID: c29b5d9f41bdbc14ebb0df0964d1fa42
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: c02ffd35cda018443b5dd8175cf5a8dd
+    isWorldmap: 0
+    recalculate: 0
+    min: 0.4062562
+    max: 11.156421
+  - guid: 17d00af5930ee334fb9ed5f540dc4d8d
+    isWorldmap: 0
+    recalculate: 0
+    min: 0.06250095
+    max: 3.9531853
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20250509 - 180912_LayerGameObject_2560_-0.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20250509
+      - 180912/Terrain_0_0-20250509 - 180912_LayerGameObject_2560_-0.5
+    fullPath: E:/EnvironmentBuilt1/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20250509
+      - 180912/Terrain_0_0-20250509 - 180912_LayerGameObject_2560_-0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20250509 - 180912_LayerGameObject_512_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20250509
+      - 180912/Terrain_0_0-20250509 - 180912_LayerGameObject_512_2
+    fullPath: E:/EnvironmentBuilt1/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20250509
+      - 180912/Terrain_0_0-20250509 - 180912_LayerGameObject_512_2
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}
